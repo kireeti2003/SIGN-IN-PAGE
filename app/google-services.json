@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "81185826193",
+    "project_id": "batman-69701",
+    "storage_bucket": "batman-69701.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81185826193:android:1a5d1306aacf4ee86aa630",
+        "android_client_info": {
+          "package_name": "com.example.batman"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRcxW0OsufBHXIkkxlUXuEkB1gAjPimKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
